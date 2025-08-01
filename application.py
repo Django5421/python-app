@@ -3,4 +3,5 @@ application = Flask(__name__)
 
 @application.route('/')
 def hello_elastic_beanstalk():
-        return 'Hello Elastic Beanstalk!'
+
+        return 'Hello arka!'
